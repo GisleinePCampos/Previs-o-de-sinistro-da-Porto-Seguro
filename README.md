@@ -7,7 +7,7 @@ O funcionamento de um seguro de carro é baseado em um contrato de seguro no qua
 
 A Porto Seguro, uma das maiores seguradoras de automóveis e residências do Brasil, concorda plenamente. Imprecisões nas previsões de sinistros de seguradoras elevam o custo para bons motoristas e diminuem para os ruins. Nesta competição, o desafio é construir um modelo que preveja a probabilidade de um motorista realizar um sinistro de seguro auto no próximo ano. Embora a Porto Seguro use aprendizado de máquina há 20 anos, eles buscam novos métodos através da comunidade de aprendizado de máquina do Kaggle. Uma previsão mais precisa permitirá ajustar melhor seus preços, tornando o seguro automotivo mais acessível a mais motoristas.
 
-Avaliação do Modelo (Sugerido pela Porto Seguro)
+# Avaliação do Modelo (Sugerido pela Porto Seguro)
 Métrica de Pontuação: As submissões são avaliadas usando o Coeficiente Gini Normalizado.
 
 O Coeficiente Gini Normalizado ajusta a pontuação pelo máximo teórico, de modo que a pontuação máxima é 1.
